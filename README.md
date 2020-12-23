@@ -4,7 +4,7 @@
 
 Submitted by: **Linda Fan**
 
-Time spent: **16** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
